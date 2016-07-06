@@ -13,3 +13,8 @@ dn: ou=services,dc=example,dc=com
 ou: people
 description: All services
 objectclass: organizationalunit
+
+dn: ou=groups,dc=example,dc=com
+ou: groups
+objectclass: organizationalunit
+description: Groups
